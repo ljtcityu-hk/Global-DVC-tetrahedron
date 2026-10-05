@@ -1,0 +1,3 @@
+caseName,imageSize_1,imageSize_2,imageSize_3,imageVoxelCount,sampleCount,nodeCount,elementCount,dofs,converged,iterations,displacementRMSE,maxVectorError,elementGradientRMSE,totalSeconds,iterationSeconds
+translation,128,128,128,2097152,912673,729,3072,2187,1,4,0.00106221910629417,0.00551772028804922,8.02427867292456e-05,1.7360417,0.2855089
+affine,128,128,128,2097152,912673,729,3072,2187,1,4,0.00100476678080736,0.00514556529458989,7.75210316025106e-05,1.4542329,0.2719305
